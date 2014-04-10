@@ -12,7 +12,7 @@
 
 # Preparation:
 # This function takes as input just the responses—make sure to clean your data!
-# If you have gathered responses from online software there probably exist headers. Make sure to turn headers on.
+# If you have gathered responses from online survey software there probably exist headers. Make sure to turn headers on.
 # Moreover, set strings to n/a to avoid as.numeric factorising the responses. You don't want to calculate the score of the indices!
 # sus.demo <- read.csv("~/Documents/R/Demo Usability evaluation - Demo SUS.csv", header=T, na.strings='n/a')
 
