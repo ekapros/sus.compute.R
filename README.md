@@ -14,10 +14,6 @@ License, v. 2.0. If a copy of the MPL was not distributed with this
 file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-Evangelos Kapros, Wed 9 Apr, 2014
-
-http://ekapros.eu/ | @ekapros
-
 Preparation:
 
 This function takes as input just the responses—make sure to clean your data!
