@@ -23,7 +23,7 @@
 # demo.sus <-my.data[c(-1,-2,-3,-4)]
 
 # To run from the console you would do something like:
-# > sus.score <- sus.compute(ais.sus)
+# > sus.score <- sus.compute(demo.sus)
 # > sus.score
 
 sus.compute <- function(x){
